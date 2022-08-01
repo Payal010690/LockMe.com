@@ -14,9 +14,9 @@ Product Backlog
 1. Create Welcome Screen
 2. Retrieve the file names in ascending order
 3. Business-level Operation
-	a. Add a user specified file to the application
-	b. Delete a user specified file from the application
-	c. search a user specified file in the application
+	a. Add a user specified file to the application 
+	b. Delete a user specified file from the application 
+	c. search a user specified file in the application 
 	d. Navigate Option to close the current execution and return to the main context
 4. Close the application
 
@@ -25,14 +25,14 @@ Sprint Planning
 ---------------
 
 Sprint 1		
-a. Create Welcome Screen
+a. Create Welcome Screen 
 b. Files names in ascending order
 
 Sprint 2		
-a. Add user specified file			          
+a. Add user specified 
 b. Delete user specified file
 
 Sprint 3		
-a. Search engine for user specified file	
-b. Navigate to main option
+a. Search engine for user specified file 	
+b. Navigate to main option 
 c. Exit Application
