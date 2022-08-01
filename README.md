@@ -24,12 +24,15 @@ Product Backlog
 Sprint Planning
 ---------------
 
-Sprint 1		a. Create Welcome Screen
-			b. Files names in ascending order
+Sprint 1		
+a. Create Welcome Screen
+b. Files names in ascending order
 
-Sprint 2		a. Add user specified file			          
-			b. Delete user specified file
+Sprint 2		
+a. Add user specified file			          
+b. Delete user specified file
 
-Sprint 3		a. Search engine for user specified file	
-		      	b. Navigate to main option
-			c. Exit Application
+Sprint 3		
+a. Search engine for user specified file	
+b. Navigate to main option
+c. Exit Application
